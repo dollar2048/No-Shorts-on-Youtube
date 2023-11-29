@@ -3,7 +3,7 @@
 ###
 1. Download [AdGuard](https://apps.apple.com/de/app/adguard-for-safari/id1440147259?l=en-GB&mt=12)
 2. Enable only "Custom Filter"
-3. Add Fiter to AdGuard → Filters → Custom → [Add Custom Filter]([https://github.com/dollar2048/No-Shorts-on-Youtube/blob/main/focus4yt.txt](https://github.com/dollar2048/No-Shorts-on-Youtube/raw/main/focus4yt.txt))
+3. Add Fiter to AdGuard → Filters → Custom → [Add Custom Filter](https://github.com/dollar2048/No-Shorts-on-Youtube/raw/main/focus4yt.txt)
 
 ## Ad Blocking for Safari users:
 Add the filter rules below in AdGuard → Filters → User Rules
