@@ -5,6 +5,8 @@
 2. Enable only "Custom Filter"
 3. Add Fiter to AdGuard → Filters → Custom → [Add Custom Filter](https://github.com/dollar2048/No-Shorts-on-Youtube/raw/main/focus4yt.txt)
 
+<img src="https://github.com/dollar2048/No-Shorts-on-Youtube/assets/15975055/540802c7-7065-4ffb-855c-feee689fa9d3" height="500">￼
+
 ## Ad Blocking for Safari users:
 Add the filter rules below in AdGuard → Filters → User Rules
 ```
