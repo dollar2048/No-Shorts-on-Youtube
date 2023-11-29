@@ -1,11 +1,9 @@
 # Focus for YouTube&trade; - Never enter the rabbit hole again
 
 ###
-We now have a filter list that can be integrated into Safari with AdGuard → Filters → Custom → Add Custom Filter
-https://raw.githubusercontent.com/hadig/Focus-for-Youtube/master/focus4yt.txt
-
-Also works on other browsers e.g. Firefox with uBlock origin
-###
+1. Download [AdGuard](https://apps.apple.com/de/app/adguard-for-safari/id1440147259?l=en-GB&mt=12)
+2. Enable only "Custom Filter"
+3. Add Fiter to AdGuard → Filters → Custom → [Add Custom Filter](https://github.com/dollar2048/No-Shorts-on-Youtube/blob/main/focus4yt.txt)
 
 ## Ad Blocking for Safari users:
 Add the filter rules below in AdGuard → Filters → User Rules
